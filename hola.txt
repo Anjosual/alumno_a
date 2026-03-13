@@ -1,4 +1,8 @@
 modificacion alumno B
 
 modificacion alumno A
+<<<<<<< HEAD
 modifica kristhofer
+=======
+modifica alejandro
+>>>>>>> 4b977c78344bf50c08df64fb4555aed012e715b0
